@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fastapi-insta"
+version = "0.1.0"
+description = "Poetry for fastpi insta project"
+authors = ["Nick"]
+readme = "README.md"
+packages = [{include = "fastapi_insta"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

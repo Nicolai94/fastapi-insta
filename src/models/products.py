@@ -1,0 +1,1 @@
+products = ["watch", "camera", "phone"]

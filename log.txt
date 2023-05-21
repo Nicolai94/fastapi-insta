@@ -1,0 +1,1 @@
+MyApi: Call to get all products
